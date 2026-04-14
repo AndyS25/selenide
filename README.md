@@ -1,3 +1,4 @@
+[![Java CI with Gradle](https://github.com/AndyS25/selenide/actions/workflows/gradle.yml/badge.svg)](https://github.com/AndyS25/selenide/actions/workflows/gradle.yml)
 # Домашнее задание к занятию «2.2. Selenide»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
